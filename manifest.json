@@ -2,6 +2,7 @@
   "name": "City_Background_Slideshow",
   "version": "1.0",
   "description": "Whenever a new tab is opened, have the background be a slideshow of city images",
+  "permissions": ["storage"],
   "background": {
     "scripts": ["slideshow.js"],
     "persistent": false
